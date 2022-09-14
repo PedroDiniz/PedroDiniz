@@ -1,10 +1,9 @@
 ## Olá! Eu sou o Pedro Diniz 
- <div>
+<div>
   <a href="https://github.com/PedroDiniz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroDiniz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OtavioBraga0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDiniz&langs_count=5&theme=dracula&layout=compact"/>
   </a> 
-
 </div>
 
 ##
